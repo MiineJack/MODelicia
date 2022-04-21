@@ -1,0 +1,21 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fabiano Santos",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.2",
+    "ffmpeg-static": "^4.4.1",
+    "figlet": "^1.5.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0"
+  },
+  "description": "Bot used to learn and tests"
+}
